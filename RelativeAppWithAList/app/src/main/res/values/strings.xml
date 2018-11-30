@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Relative App With A List</string>
+    <string-array name="majina">
+        <item>Winnie</item>
+        <item>Winnie</item>
+        <item>Winnie</item>
+        <item>Winnie</item>
+        <item>Winnie</item>
+        <item>Winnie</item>
+        <item>Winnie</item>
+        <item>Winnie</item>
+        <item>Winnie</item>
+        <item>Winnie</item>
+        <item>Winnie</item>
+        <item>Winnie</item>
+        <item>Winnie</item>
+        <item>Winnie</item>
+        <item>Winnie</item>
+        <item>Winnie</item>
+        <item>Winnie</item>
+        <item>Winnie</item>
+        <item>Winnie</item>
+        <item>Winnie</item>
+    </string-array>
+</resources>

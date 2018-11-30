@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ukulima</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Animal Diseases</string>
+    <string name="title_activity_main2">Handling Animals</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string-array name="mifugo">
+        <item>cow</item>
+    </string-array>
+
+
+</resources>
